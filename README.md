@@ -13,9 +13,13 @@ Estudo Análise e Desenvolvimento de Sistemas e desenvolvo interfaces com foco e
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/gsap/88CE02" alt="GSAP / ScrollTrigger" title="GSAP / ScrollTrigger" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" alt="React — em aprendizado" title="React — em aprendizado" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS — em aprendizado" title="Tailwind CSS — em aprendizado" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" />
 </p>
 
 HTML · CSS · JavaScript · GSAP / ScrollTrigger · Git · GitHub · VS Code
+
+Em aprendizado: **React e Tailwind CSS**.
